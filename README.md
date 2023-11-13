@@ -10,10 +10,12 @@ I am a devloper in the making with an instrest in back-end but with and overall 
 
 I am proficient in:
 
-- [List of Programming Languages]
-- [List of Frameworks and Libraries]
-- [Other Tools and Technologies]
-
+- JavaScript
+- HTML
+- CSS
+- React
+- PostgreSQL
+  
 I am always eager to learn and stay updated on the latest advancements in the tech world.
 
 ## 🌱 Currently Learning
