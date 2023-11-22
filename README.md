@@ -4,7 +4,7 @@ This is my GitHub profile. Here, you'll find a collection of projects and reposi
 
 ## About Me
 
-I am a devloper in the making with an instrest in back-end but with and overall passion for coding!
+I am a devloper in the making with an instrest in back-end but with an overall passion for coding!
 
 ## 🔧 Technologies & Tools
 
