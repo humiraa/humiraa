@@ -33,9 +33,9 @@ Feel free to share your recommendations or resources related to these topics!
 
 Here are some notable projects I've been working on:
 
-1. [Project Name 1](link-to-project1): Short description of the project.
-2. [Project Name 2](link-to-project2): Short description of the project.
-3. ...
+1. [BootRant](https://github.com/humiraa/BootRant): A journal to help a bootcamper write their thoughts and deal with their imposter syndrome. https://bootrant-ckk4.onrender.com/
+2. [Pet pal](https://github.com/humiraa/PetPal): A virtual pet to name, feed, bath and play. https://pet-pal-one.vercel.app/
+3. [Intern](https://github.com/Christener19/intern): A zoom dashboard to track attendance, engagement, random name picker and zoom polls. https://intern-soc.vercel.app/ 
 
 
 
