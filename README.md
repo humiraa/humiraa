@@ -4,7 +4,11 @@ This is my GitHub profile. Here, you'll find a collection of projects and reposi
 
 ## About Me
 
-I am a devloper in the making with an instrest in back-end but with an overall passion for coding!
+I am currently engaged in the captivating world of development 💻, I'm constantly honing my craft with a fervor for continuous learning. When I'm not immersed in code, I escape into the pages of various books, each one a gateway to a different adventure📚.
+
+I have two adorable cats, they are not just pets but companions on this wild journey called life, bringing joy and cuddles🐈. Excitingly, I'm learning to speak Arabic fluently, embracing the challenge with enthusiasm🇦🇪.
+
+Life's a beautiful mix of coding, reading, language learning, and cozy cat snuggles, and I'm soaking in every delightful moment! 💻📚🐾🌍
 
 ## 🔧 Technologies & Tools
 
@@ -15,6 +19,9 @@ I am proficient in:
 - CSS
 - React
 - PostgreSQL
+- Typescript
+- Tailwind
+- Nextjs
   
 I am always eager to learn and stay updated on the latest advancements in the tech world.
 
